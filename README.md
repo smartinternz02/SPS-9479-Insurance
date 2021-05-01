@@ -42,7 +42,7 @@ This repository is to present a data visualization built using Tableau as part o
 
 ## Steps to Implement a Data Visualization in Insurance 
 
-1.__Create an account at Tableau website__
+##__Create an account at Tableau website__
 
 ![Download, Install Tableau software and Create account](./DownloadTLDesktop-01-May-21-4_50_03-AM.png)
 
@@ -50,7 +50,7 @@ Download and install Tableau software to participate in Data Visualization and S
 
 ![Create Tableau Account](./CreateTableauAccount-01-May-21-5_00_31-AM.png)
 
-2.__Login onto Tableau account__
+##__Login onto Tableau account__
 
 ![Tableau Login Page](./SignIn-30-Apr-21-10_42_33-PM.png)
 
@@ -60,13 +60,13 @@ A login page at Tableau, to sign into an account created at Tableau.
 
 Tableau Dashboard of an account after signing in.
 
-3.__Connect Pane of Tableau Software__
+##__Connect Pane of Tableau Software__
 
 ![Tableau Connection Pane](./ConnectPane-30-Apr-21-10_40_54-PM.png)
 
 Tableau Connection Pane of an account after signing in.
 
-4.__Connect the dataset from connect pane__
+##__Connect the dataset from connect pane__
 
 ![Connect the dataset to the Tableau Software](./LiveDataConnect-30-Apr-21-11_15_57-PM.png)
 
@@ -122,7 +122,7 @@ Create a Dashboard to track the Insurance Business.
 
 Create a Story using worksheets and dashboard to depict the insights of Insurance Business from Financial Years 2000-2001 to 2016-2017.
 
-5.__Save to Tableau Public Server__
+##__Save to Tableau Public Server__
 
 ![Sign In into Tableau Public](./Sign-in-TPublic-30-Apr-21-11_00_12-PM.png)
 
@@ -140,11 +140,11 @@ Sending Dashboard and Story to Tableau Public.
 
 Web Launch of Dashboard and Story at Tableau Public.
 
-6.__Link to Created Dashboard and Story hosted On Webspace at Tableau Public__
+##__Link to Created Dashboard and Story hosted On Webspace at Tableau Public__
 
 [Link to live Website on Tableau Public](https://public.tableau.com/profile/chakunta.venkata.guru.rao5851#!/vizhome/IndianInsuranceBusiness/IndianInsuranceBusinessStory?publish=yes)
 
-7.__Link to YouTube Video__  
+##__Link to YouTube Video__  
 
 [[Video on Website](http://img.youtube.com/vi/6lRf2VYgc_c/0.jpg)](https://youtu.be/ZQZfkxl2FP0 "Data Visualization Video") 
 
