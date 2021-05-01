@@ -146,7 +146,7 @@ Web Launch of Dashboard and Story at Tableau Public.
 
 ##__Link to YouTube Video__  
 
-[[Video on Website](http://img.youtube.com/vi/6lRf2VYgc_c/0.jpg)](https://youtu.be/ZQZfkxl2FP0 "Data Visualization Video") 
+[[Video on Data Vizualization](http://img.youtube.com/vi/6lRf2VYgc_c/0.jpg)](https://youtu.be/ZQZfkxl2FP0 "Data Visualization Video") 
 
 ##  References
 
